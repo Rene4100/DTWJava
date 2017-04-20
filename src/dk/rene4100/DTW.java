@@ -1,4 +1,4 @@
-package dk.rml;
+package dk.rene4100;
 
 public class DTW {
     private static int inf = 9000;
